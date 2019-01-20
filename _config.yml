@@ -1,0 +1,63 @@
+# Site settings
+title: Samxaverian
+email: soumya6197@gmail.com
+url: https://samxaverian.github.io
+description: "A young entusiastic mind who is ready to take up challenges and see the world to its extreme limits."
+keywords: "Soumya Chakraborty, An Enthusiast Learner"
+skills: "C, C++ , Java, SQL, Computer Vision, Machine Learning, IOT "
+meta_author: Chakraborty Soumya
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: samxaverian
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Soumya Chakraborty
+  location: India
+  social: Around the Web
+  credits: Jekyll
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/soumya-chakraborty-343160137/
+  - title: facebook
+    url: https://www.facebook.com/soumya.chakraborty.545
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/samxaverian
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
